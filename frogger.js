@@ -628,7 +628,7 @@ document.onkeydown = function(e) {
                     fp = false;
                     camera.lookAt(0, 0, 0);
                     camera.position.x = 0;
-                    camera.position.y = 0;
+                    camera.position.y = 4;
                     camera.position.z = 15;
                 }
                 else {
